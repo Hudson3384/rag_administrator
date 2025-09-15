@@ -1,0 +1,5 @@
+{
+  "name": "AI Bot Management Platform",
+  "description": "A platform to create, manage, and deploy AI bots with custom knowledge bases (RAG) and multi-customer chat capabilities.",
+  "requestFramePermissions": []
+}
